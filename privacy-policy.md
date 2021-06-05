@@ -45,16 +45,14 @@
 
   - ktmouk@gmail.com
 
-## 6. アクセス解析
+## 6. 本サービスの利用状況の収集
 
-1. 本サービスでは、アクセス解析に[GoogleAnalytics](https://analytics.google.com/analytics/)を使用します。
-
-- GoogleAnalyticsは、収集のためにCookieを使用しています。  
+1. 本サービスでは利便性および品質向上のため、主に下記のサービスを利用して本サービスの利用状況を収集します。  
 情報は匿名で収集されており、個人を特定するものではありません。
 
-- 保存期間は26ヶ月間です。
-
-- Cookieを無効にするか[アドオン](https://tools.google.com/dlpage/gaoptout)を使用することで、収集を拒否することができます。
+- [Google Analytics](https://www.google.com/intl/ja/policies/privacy/partners)
+- [Mixpanel](https://mixpanel.com)
+- [LogRocket](https://logrocket.com)
 
 
 ## 7. 変更手続
@@ -67,5 +65,3 @@
 1. ご意見、ご質問、利用者情報の取扱いに関するお問い合わせは、下記までお願いいたします。
 
   - ktmouk@gmail.com
-
-- 本ポリシーの誤字、脱字、その他修正点を発見された場合は、PullRequestか、Issueにてご連絡ください。
